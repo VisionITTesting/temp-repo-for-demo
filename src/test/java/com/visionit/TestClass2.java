@@ -3,7 +3,7 @@ package com.visionit;
 public class TestClass2 {
 
     //Added by akash Done as a part of this ticket: jira-2386-add-search-test-cases/
-    public void test_00(){
+    public void test_00_01(){//Made changes based on sarang comments
         System.out.println("I am test method 1");
     }
 
